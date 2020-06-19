@@ -29,7 +29,7 @@ playlist.
 - 2160p
 
 # Demo Screenshots
-![screenshot|50x50,20%](sceenshots/screenshot.png)
+<img src="sceenshots/screenshot.png" width="100" height="100" title="ScreenShot">
 
 # Author
 - D H R U V &nbsp; P R A J A P A T I
