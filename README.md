@@ -30,3 +30,6 @@ playlist.
 
 # Demo Screenshots
 ![screenshot](sceenshots/screenshot.png)
+
+# Author
+- D H R U V &nbsp;&nbsp; P R A J A P A T I
