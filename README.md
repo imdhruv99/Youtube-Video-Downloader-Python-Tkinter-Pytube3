@@ -32,6 +32,6 @@ playlist.
 ![screenshot](sceenshots/screenshot.png)
 
 # Author
-- D H R U V &nbsp;&nbsp; P R A J A P A T I
+- D H R U V &nbsp; P R A J A P A T I
 
 # Thank You!
