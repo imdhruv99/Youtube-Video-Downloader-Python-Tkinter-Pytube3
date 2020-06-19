@@ -29,7 +29,7 @@ playlist.
 - 2160p
 
 # Demo Screenshots
-![screenshot|100x100,20%](sceenshots/screenshot.png)
+![screenshot|50x50,20%](sceenshots/screenshot.png)
 
 # Author
 - D H R U V &nbsp; P R A J A P A T I
